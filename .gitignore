@@ -1,0 +1,7 @@
+*.dll
+*.pdb
+EasyDock/UI/bin/
+EasyDock/UI/obj/
+WindowsScrape/bin/
+WindowsScrape/obj/
+*.suo
